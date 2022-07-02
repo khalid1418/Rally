@@ -119,6 +119,7 @@ fun RallyApp() {
     }
 
 }
+
 private fun navigateToSingleAccount(
     navController: NavHostController,
     accountName: String){
